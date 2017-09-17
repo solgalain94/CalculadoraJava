@@ -1,0 +1,7 @@
+organization=calculadoratopicos
+projectKey=Calculadora:Calculadora
+serverUrl=https://sonarcloud.io
+serverVersion=6.5.0.27571
+dashboardUrl=https://sonarcloud.io/dashboard/index/Calculadora:Calculadora
+ceTaskId=AV5dxOdUzsTf1U4ISADE
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AV5dxOdUzsTf1U4ISADE
